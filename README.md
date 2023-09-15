@@ -17,13 +17,13 @@
 
 ### <div align="center" > 🎓 Education 🎓 </div>
 
-<div align="center" > Hanyang Univ. Business & Film
-<br>
-(2014.03 ~ 2023.02)
-<br>
-<br>
-SSAFY 9th
-<br>
-(2023.01 ~ing)
-  
+<div style="display: flex; flex-direction: row;">
+  <div style="flex: 1;">
+    Hanyang Univ. Business & Film (2014.03 ~ 2023.02)
+  </div>
+  <div style="flex: 1;">
+    SSAFY 9th (2023.01 ~ing)
+  </div>
 </div>
+
+
