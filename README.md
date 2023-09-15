@@ -14,3 +14,16 @@
 <div align="center" ><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/> 
 </div>
 <br>
+
+### <div align="center" > 🎓 Education 🎓 </div>
+
+<div align="center" > Hanyang Univ. Business & Film
+<br>
+(2014.03 ~ 2023.02)
+<br>
+<br>
+SSAFY 9th
+<br>
+(2023.01 ~ing)
+  
+</div>
