@@ -11,6 +11,6 @@
 
 <div align="center" ><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white"/> </div>
 
-<div align="center" ><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white"/>
+<div align="center" ><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/> 
 </div>
-
+<br>
