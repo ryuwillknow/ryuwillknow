@@ -1,6 +1,6 @@
 ### <div align="center" >:bulb: Ryu will know everything! :bulb: </div>
 
-<div align="center" > 모르는 것을 발견하면 눈이 반짝이는, 배움이 즐거운 개발자 류동훈입니다.</div>
+<div align="center" > 모르면 눈이 반짝이는, 배움이 즐거운 개발자 류동훈입니다.</div>
 <br>
 
 ### <div align="center" > 🛠 Tech Stack 🛠 </div>
@@ -17,13 +17,14 @@
 
 ### <div align="center" > 🎓 Education 🎓 </div>
 
-<div style="display: flex; flex-direction: row;">
-  <div style="flex: 1;">
-    Hanyang Univ. Business & Film (2014.03 ~ 2023.02)
-  </div>
-  <div style="flex: 1;">
-    SSAFY 9th (2023.01 ~ing)
-  </div>
+<div align="center">
+  Hanyang Univ.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <br> 
+  Business & Film &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SSAFY 9th 
 </div>
+<div align="center">
+ (2014.03 ~ 2023.02) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2023.01 ~ing)
+</div>
+
 
 
