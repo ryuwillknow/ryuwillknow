@@ -1,6 +1,5 @@
 ### <div align="center" >:bulb: Ryu will know everything! :bulb: </div>
 
-<div align="center" > 모르면 눈이 반짝이는, 배움이 즐거운 개발자 류동훈입니다.</div>
 <br>
 
 ### <div align="center" > 🛠 Tech Stack 🛠 </div>
@@ -23,7 +22,7 @@
   Business & Film &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp; SSAFY 9th &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <div align="center">
- (2014.03 ~ 2023.02) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2023.01 ~ing) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ (2014.03 ~ 2023.02) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2023.01 ~ 2023.12) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <br>
