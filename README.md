@@ -14,15 +14,3 @@
 </div>
 <br>
 
-### <div align="center" > 🎓 Education 🎓 </div>
-
-<div align="center">
-  Hanyang Univ.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <br> 
-  Business & Film &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp; SSAFY 9th &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
-<div align="center">
- (2014.03 ~ 2023.02) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2023.01 ~ 2023.12) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
-
-<br>
